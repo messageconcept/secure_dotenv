@@ -1,5 +1,6 @@
 {
-    "name":"psecio/secure_dotenv",
+    "name":"messageconcept/secure_dotenv",
+    "replaces":"psecio/secure_dotenv",
     "type":"library",
     "description":"An encrypted environment configuration handler",
     "keywords":["encryption", "configuration", "environment"],
